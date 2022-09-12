@@ -1,5 +1,5 @@
 # Proyecto_Visualizaci-n_ESC
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Utilizamos la ETL de Eurovisión trabajada en el proyecto anterior
-![image](https://user-images.githubusercontent.com/109532909/189700448-9e9717a7-08f1-430d-8c95-eda7ad79d0de.png)
+![eurovision-dance](https://user-images.githubusercontent.com/109532909/189700629-f278ac0a-f292-4ffb-a42b-ed3942cf05fe.gif)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
