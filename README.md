@@ -1,4 +1,4 @@
-# Proyecto_Visualizaci-n_ESC
+# Proyecto_Visualizacion_ESC
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Utilizamos la ETL de Eurovisión trabajada en el proyecto anterior. Todos los datos seleccionados corresponden a los últimos 20 años.
 
